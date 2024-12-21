@@ -1,0 +1,6 @@
+{
+  "totalTickets": 100,
+  "maxCapacity": 500,
+  "releaseInterval": 500,
+  "purchaseInterval": 750
+}
